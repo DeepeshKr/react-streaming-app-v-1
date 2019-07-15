@@ -2,3 +2,5 @@
 Client Id
 288197485246-4re22fnbu05buqqmes14rv27t9iporuj.apps.googleusercontent.com
 288197485246-kb35dfk8o1s9agia8fuk85dkikrlo64a.apps.googleusercontent.com
+
+const NodeMediaServer = require('node-media-server');
